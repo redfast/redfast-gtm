@@ -1,5 +1,5 @@
 homepage: "https://redfast.com"
 documentation: "https://docs.redfast.com"
 versions:
-  - sha: a3a023a1df517397a9ac52c42c0cfd9d1514cc35
+  - sha: c1513ab54778a627d8019d7e8ec7db63955476fa
     changeNotes: template file
