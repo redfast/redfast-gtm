@@ -3,3 +3,5 @@ documentation: "https://docs.redfast.com"
 versions:
   - sha: c1513ab54778a627d8019d7e8ec7db63955476fa
     changeNotes: template file
+  - sha: a153c65877e52e5150784116a437fcb5dd28705d
+    changeNotes: initial version
