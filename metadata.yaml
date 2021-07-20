@@ -1,5 +1,5 @@
 homepage: "https://redfast.com"
 documentation: "https://docs.redfast.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: a153c65877e52e5150784116a437fcb5dd28705d
     changeNotes: Initial Version
