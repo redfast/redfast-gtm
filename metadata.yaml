@@ -1,6 +1,8 @@
 homepage: "https://redfast.com"
 documentation: "https://redfast.com"
 versions:
+  - sha: 4211190bee7c807a1dadaf66161e84d145c1abf6
+    changeNotes: address feedback from google
   - sha: c1513ab54778a627d8019d7e8ec7db63955476fa
     changeNotes: template file
   - sha: a153c65877e52e5150784116a437fcb5dd28705d
