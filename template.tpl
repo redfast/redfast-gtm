@@ -48,8 +48,9 @@ ___TEMPLATE_PARAMETERS___
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const injectScript = require('injectScript');
+const encodeUriComponent = require('encodeUriComponent');
 
-const url = "https://" + data.appId + ".redfastlabs.com/assets/bundle.js";
+const url = "https://" + encodeUriComponent(data.appId) + ".redfastlabs.com/assets/bundle.js";
 
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
 
